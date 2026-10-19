@@ -71,8 +71,9 @@ A complete step-by-step breakdown of the analytical methodology used in this pro
 
 
 ## Key Findings from the Analysis
-- Amount of international students is rising world wide
-- There is a moderate correlation between the percentage of international students and the university score
+- Amount of international students is rising world wide, including from the UK
+- There was a dip in international students in UK universities in 2015
+- There is a moderate correlation between the percentage of international students and the university score with a Pearson correlation r-value of 0.653
 - The UK university with the highest average percentage of international students is Imperial College London with 51%
 - The highest rated UK university is the uni of Oxford, which has 33% average international students
 
@@ -91,7 +92,7 @@ Alternatively, view the pdf output here **[Assets/universities_dashboard.pdf](As
 ## Visual Outputs
 
 Full the full Power BI report pdf output here **[Assets/universities_dashboard.pdf](Assets/universities_dashboard.pdf)**
----
+
 
 UK and top universities by average number of international students. During the dataset year range of 2011 - 2016, Australia was the top university.
 ![A horizontal bar chart of the top countries for international students](Assets/pg1_int_students_amt.jpg)
