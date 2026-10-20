@@ -9,8 +9,12 @@ An exploratory data analysis examining world wide university data.
 The project ends in a report in the form as a power BI dashboard.
 Data spans the years 2011-2016
 
+View the pdf export of the dashboard here: **[Assets/universities_dashboard.pdf](Assets/universities_dashboard.pdf)**
+
 ## Project Overview
-A look at trends in international students in relation to UK universities.
+A look at trends in international students in relation to UK universities over the years 2011-2016.
+An investigation for trends and patterns in levels of international students their choices in university over the years.
+Exploring which countries are the most popular with international students and looking at differences between them.
 
 ## Repository Structure
 
@@ -88,6 +92,9 @@ Alternatively, view the pdf output here **[Assets/universities_dashboard.pdf](As
 - **Excel** Explore data and analyse for patterns
 - **Power Query** Clean and transform data
 - **Power BI** Create data visualisations and dashboard report
+
+## Data
+View data source and cleaning techniques at  **[Docs/analysis_approach.md](Docs/analysis_approach.md)**
 
 ## Visual Outputs
 
