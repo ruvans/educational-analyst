@@ -101,8 +101,7 @@ Looking at the percentage of international students per country, Luxembourg has 
 ![A horizontal bar chart of the universities with the highest average percentage of international students](Assets/pg2_percent_of_int_students.jpg)
 
 Each yeah, the amount of international students world-world is rising every year.
-![A line plot showing the gradual yearly rise of international students](Assets/pg2_int_students_trend.jpg)
-
+<img src="Assets/pg2_int_students_trend.jpg" alt="A line plot showing the gradual yearly rise of international students" width=100% style="width:100%">
 
 This scatterplot of university scores by percentage of international students shows a moderate correlation, suggesting that international students are choosing the best universities. 
 ![A scatterplot chart showing the university score by percentage of international students](Assets/pg3_university_scores.jpg)
